@@ -13,7 +13,7 @@ This repository contains important information about many pokemon.
 
 The files above contain documented data and can be verified with the official docs at [PokemonDB](https://pokemondb.net/).
 
-![image](https://i.pinimg.com/originals/81/53/58/8153588d3f49478e70593789d80bbd43.gif)
+![image](https://64.media.tumblr.com/e315e556a6b1526afca8064409792ddb/tumblr_pr5ok1ukFR1qf5hjqo4_540.gif)
 
 ⣿⣿⣿⣿⣿⡏⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿
 
