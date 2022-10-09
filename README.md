@@ -3,4 +3,4 @@
 
 This repository contains important information about many pokemon.
 
-[Gen-1](kanto.md)
+[Gen-1](kanto.csv)
