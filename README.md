@@ -71,3 +71,4 @@ THEY ARE COMING.
 
 #Try pokmeon go
 #catch Xeneas NOWWWWWW
+#catch Gigatlith soon 19th oct
